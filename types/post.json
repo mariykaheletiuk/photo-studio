@@ -38,7 +38,9 @@
       "type": "Link",
       "config": {
         "select": "document",
-        "customtypes": ["author"],
+        "customtypes": [
+          "author"
+        ],
         "label": "author"
       }
     },
